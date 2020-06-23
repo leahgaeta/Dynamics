@@ -1,4 +1,5 @@
-# Bending_Materials
-Bending of materials laboratory exercise for Mechanics of Materials course
+# Dynamics
 
-Includes data, code (.mlx MATLAB Live Editor), and report
+Lecture notes from my dynamics course
+
+
