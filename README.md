@@ -6,16 +6,16 @@ These were studied in conjunction with the text's material and are based off of 
 #
 **Chapters covered in these lecture notes:**
 
-Ch. 16: Planar Kinematics of a Rigid Body
+- Ch. 16: Planar Kinematics of a Rigid Body
 
-Ch. 17: Planar Kinetics of a Rigid Body: Force and Acceleration
+- Ch. 17: Planar Kinetics of a Rigid Body: Force and Acceleration
 
-Ch. 18: Planar Kinetics of a Rigid Body: Work and Energy
+- Ch. 18: Planar Kinetics of a Rigid Body: Work and Energy
 
-Ch. 19: Planar Kinetics of a Rigid Body: Impulse and Momentum
+- Ch. 19: Planar Kinetics of a Rigid Body: Impulse and Momentum
 
-Ch. 22: Vibrations
-
+- Ch. 22: Vibrations
+#
 **Notes on earlier chapters are available upon request. These topics include:**
 
 - Kinematics of a particle
